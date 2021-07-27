@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+      <class name="Tclsmethds">
+        <test-method status="PASS" signature="methdA()[pri:0, instance:Tclsmethds@396a51ab]" name="methdA" duration-ms="15" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methdA -->
+        <test-method status="PASS" signature="methdA()[pri:0, instance:Tclsmethds@396a51ab]" name="methdA" duration-ms="5" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methdA -->
+        <test-method status="PASS" signature="methdA()[pri:0, instance:Tclsmethds@396a51ab]" name="methdA" duration-ms="2" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methdA -->
+        <test-method status="PASS" signature="methdA()[pri:0, instance:Tclsmethds@396a51ab]" name="methdA" duration-ms="2" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methdA -->
+        <test-method status="PASS" signature="methdB()[pri:0, instance:Tclsmethds@396a51ab]" name="methdB" duration-ms="2" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methdB -->
+        <test-method status="PASS" signature="methdD()[pri:0, instance:Tclsmethds@396a51ab]" name="methdD" duration-ms="2" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methdD -->
+        <test-method status="PASS" signature="methdE()[pri:0, instance:Tclsmethds@396a51ab]" name="methdE" duration-ms="2" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methdE -->
+        <test-method status="PASS" signature="methdC()[pri:1, instance:Tclsmethds@396a51ab]" name="methdC" duration-ms="2" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methdC -->
+        <test-method status="PASS" signature="methdC()[pri:1, instance:Tclsmethds@396a51ab]" name="methdC" duration-ms="3" started-at="2021-07-22T02:36:53Z" finished-at="2021-07-22T02:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methdC -->
+      </class> <!-- Tclsmethds -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
